@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>متجر إلكتروني</title>
+  <title>متجر إلكتروني - كل منتج بـ 15,000 دينار عراقي</title>
   <style>
     body { font-family: sans-serif; direction: rtl; background-color: #f4f4f4; margin: 0; padding: 0; }
     header { background-color: #333; color: white; padding: 1rem; text-align: center; }
@@ -24,44 +24,20 @@
   <div class="container">
     <!-- منتج 1 -->
     <div class="product">
-      <img src="https://via.placeholder.com/200" alt="سماعات بلوتوث">
-      <h3>سماعات بلوتوث</h3>
-      <p>15,000 دينار عراقي</p>
-      <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء سماعات بلوتوث" target="_blank">طلب عبر واتساب</a>
-    </div>
-    <!-- منتج 2 -->
-    <div class="product">
-      <img src="https://via.placeholder.com/200" alt="كفر موبايل">
+      <img src="https://images.unsplash.com/photo-1580910051073-c6a85abf51a3?auto=format&fit=crop&w=400&q=80" alt="كفر موبايل">
       <h3>كفر موبايل</h3>
       <p>15,000 دينار عراقي</p>
       <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء كفر موبايل" target="_blank">طلب عبر واتساب</a>
     </div>
+
+    <!-- منتج 2 -->
+    <div class="product">
+      <img src="https://images.unsplash.com/photo-1585386959984-a4155228f94d?auto=format&fit=crop&w=400&q=80" alt="سماعات بلوتوث">
+      <h3>سماعات بلوتوث</h3>
+      <p>15,000 دينار عراقي</p>
+      <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء سماعات بلوتوث" target="_blank">طلب عبر واتساب</a>
+    </div>
+
     <!-- منتج 3 -->
     <div class="product">
-      <img src="https://via.placeholder.com/200" alt="شاحن سريع">
-      <h3>شاحن سريع</h3>
-      <p>15,000 دينار عراقي</p>
-      <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء شاحن سريع" target="_blank">طلب عبر واتساب</a>
-    </div>
-    <!-- منتج 4 -->
-    <div class="product">
-      <img src="https://via.placeholder.com/200" alt="حامل موبايل">
-      <h3>حامل موبايل</h3>
-      <p>15,000 دينار عراقي</p>
-      <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء حامل موبايل" target="_blank">طلب عبر واتساب</a>
-    </div>
-    <!-- منتج 5 -->
-    <div class="product">
-      <img src="https://via.placeholder.com/200" alt="كيبل USB">
-      <h3>كيبل USB سريع</h3>
-      <p>15,000 دينار عراقي</p>
-      <a href="https://api.whatsapp.com/send?phone=9627867226456&text=أرغب في شراء كيبل USB" target="_blank">طلب عبر واتساب</a>
-    </div>
-  </div>
-
-  <div class="checkout">
-    <h2>لطلب المنتج، يرجى الدفع عبر زين كاش إلى الرقم: <span style="color:#d00">07867226456</span></h2>
-    <a href="https://api.whatsapp.com/send?phone=9627867226456" target="_blank">تأكيد التحويل عبر واتساب</a>
-  </div>
-</body>
-</html>
+      <img src="https://images.unsplash.com/photo-1571987502227-3b91f3ab00c3?auto=format&fit=crop&w=
